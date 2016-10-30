@@ -102,7 +102,7 @@ Hier noch eine Screenshot-basierte Schritt-für-Schritt Anleitung:
 
 ## Greek
 
-Το [**EpiCollect**](http://www.epicollect.net/) είναι μία mobile/web εφαρμογή για συλλογή geodata μέσω smartphone. Το project χρηματοδοτήθηκε από το Wellcome Trust και σχεδιάστηκε αρχικά για τη συλλογή επιδημιολογικών δεδομένων απευθείας στο πεδίο.
+Το [**EpiCollect**](http://www.epicollect.net/) είναι μία mobile/web εφαρμογή για συλλογή geodata μέσω smartphone. Το project χρηματοδοτήθηκε από τo Wellcome Trust και σχεδιάστηκε με αρχικό σκοπό τη συλλογή επιδημιολογικών δεδομένων απευθείας στο πεδίο.
 
 Μπορείτε να δημιουργήσετε το δικό σας project για τη συλλογή/απεικόνιση δεδομένων. Παρακάτω ακολουθεί μία σύντομη περιγραφή για το πώς να δημιουργήσετε ένα project και να συνεισφέρετε σε αυτό. Το παράδειγμα που δίνουμε βρίσκεται εδώ: [http://plus.epicollect.net/nerdcator/](http://plus.epicollect.net/nerdcator/) και δημιουργήθηκε χρησιμοποιώντας τον [online creator](http://plus.epicollect.net/createProject.html).
 
